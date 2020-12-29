@@ -1,0 +1,8 @@
+{
+  "name": "Yorda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5da2ed5a"
+}
